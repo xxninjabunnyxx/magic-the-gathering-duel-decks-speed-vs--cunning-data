@@ -1,0 +1,112 @@
+---
+object: card
+id: 0b4fae95-9cce-4f15-8288-987e698b8c7d
+oracle_id: a30724f0-d174-408e-8baf-4bba3cbc45b5
+multiverse_ids:
+- 386377
+tcgplayer_id: 92857
+cardmarket_id: 268850
+name: Traumatic Visions
+lang: en
+released_at: '2014-09-05'
+uri: https://api.scryfall.com/cards/0b4fae95-9cce-4f15-8288-987e698b8c7d
+scryfall_uri: https://scryfall.com/card/ddn/69/traumatic-visions?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.jpg?1592754978
+  normal: https://cards.scryfall.io/normal/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.jpg?1592754978
+  large: https://cards.scryfall.io/large/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.jpg?1592754978
+  png: https://cards.scryfall.io/png/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.png?1592754978
+  art_crop: https://cards.scryfall.io/art_crop/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.jpg?1592754978
+  border_crop: https://cards.scryfall.io/border_crop/front/0/b/0b4fae95-9cce-4f15-8288-987e698b8c7d.jpg?1592754978
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Instant
+oracle_text: |-
+  Counter target spell.
+  Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Landcycling
+- Basic landcycling
+- Typecycling
+- Cycling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set: ddn
+set_name: 'Duel Decks: Speed vs. Cunning'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0b4fae95-9cce-4f15-8288-987e698b8c7d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa30724f0-d174-408e-8baf-4bba3cbc45b5&unique=prints
+collector_number: '69'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cyril Van Der Haegen
+artist_ids:
+- 90edbd2e-9462-4394-b0b4-02885b4e56b3
+illustration_id: bf1a41ea-020f-4128-b96a-fe527e397949
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13263
+penny_rank: 6070
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386377
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Traumatic+Visions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Traumatic+Visions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Traumatic+Visions
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92857?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Traumatic+Visions&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Traumatic+Visions&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

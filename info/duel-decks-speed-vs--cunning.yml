@@ -1,0 +1,16 @@
+---
+object: set
+id: 163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+code: ddn
+tcgplayer_id: 1477
+name: 'Duel Decks: Speed vs. Cunning'
+uri: https://api.scryfall.com/sets/163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+scryfall_uri: https://scryfall.com/sets/ddn
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addn&unique=prints
+released_at: '2014-09-05'
+set_type: duel_deck
+card_count: 82
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddn.svg?1694404800

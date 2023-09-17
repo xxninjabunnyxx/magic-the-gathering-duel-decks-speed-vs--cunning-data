@@ -1,0 +1,112 @@
+---
+object: card
+id: '019be6df-da52-4cb0-81ee-a684e6f73e43'
+oracle_id: e4b15cba-9cd7-422d-9ca6-39243bf67dca
+multiverse_ids:
+- 386346
+tcgplayer_id: 92905
+cardmarket_id: 268830
+name: Mardu Heart-Piercer
+lang: en
+released_at: '2014-09-05'
+uri: https://api.scryfall.com/cards/019be6df-da52-4cb0-81ee-a684e6f73e43
+scryfall_uri: https://scryfall.com/card/ddn/13/mardu-heart-piercer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.jpg?1592754653
+  normal: https://cards.scryfall.io/normal/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.jpg?1592754653
+  large: https://cards.scryfall.io/large/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.jpg?1592754653
+  png: https://cards.scryfall.io/png/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.png?1592754653
+  art_crop: https://cards.scryfall.io/art_crop/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.jpg?1592754653
+  border_crop: https://cards.scryfall.io/border_crop/front/0/1/019be6df-da52-4cb0-81ee-a684e6f73e43.jpg?1592754653
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Human Archer
+oracle_text: Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked
+  this turn, Mardu Heart-Piercer deals 2 damage to any target.
+power: '2'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Raid
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set: ddn
+set_name: 'Duel Decks: Speed vs. Cunning'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/019be6df-da52-4cb0-81ee-a684e6f73e43/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4b15cba-9cd7-422d-9ca6-39243bf67dca&unique=prints
+collector_number: '13'
+digital: false
+rarity: uncommon
+flavor_text: '"Those who have never ridden before the wind do not know the true joy
+  of war."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Karl Kopinski
+artist_ids:
+- 0fad2c48-a56e-4a0b-b512-224f6f238f20
+illustration_id: 9dc6fd6e-1df2-4d9c-ae6b-b4c3857dc36a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 22491
+penny_rank: 12152
+prices:
+  usd: '0.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386346
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mardu+Heart-Piercer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mardu+Heart-Piercer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mardu+Heart-Piercer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92905?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mardu+Heart-Piercer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mardu+Heart-Piercer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

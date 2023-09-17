@@ -1,0 +1,109 @@
+---
+object: card
+id: f5606d36-2b3a-4d67-8392-b9a717fb4a2f
+oracle_id: ce29f71a-6662-4be4-9915-5a4be87288e0
+multiverse_ids:
+- 386308
+tcgplayer_id: 92871
+cardmarket_id: 268796
+name: Dauntless Onslaught
+lang: en
+released_at: '2014-09-05'
+uri: https://api.scryfall.com/cards/f5606d36-2b3a-4d67-8392-b9a717fb4a2f
+scryfall_uri: https://scryfall.com/card/ddn/27/dauntless-onslaught?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.jpg?1592754739
+  normal: https://cards.scryfall.io/normal/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.jpg?1592754739
+  large: https://cards.scryfall.io/large/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.jpg?1592754739
+  png: https://cards.scryfall.io/png/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.png?1592754739
+  art_crop: https://cards.scryfall.io/art_crop/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.jpg?1592754739
+  border_crop: https://cards.scryfall.io/border_crop/front/f/5/f5606d36-2b3a-4d67-8392-b9a717fb4a2f.jpg?1592754739
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Up to two target creatures each get +2/+2 until end of turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set: ddn
+set_name: 'Duel Decks: Speed vs. Cunning'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f5606d36-2b3a-4d67-8392-b9a717fb4a2f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ace29f71a-6662-4be4-9915-5a4be87288e0&unique=prints
+collector_number: '27'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "The people of Akros must learn from our leonin adversaries. If we match their staunch ferocity with our superior faith, we cannot fail."
+  —Cymede, queen of Akros
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Peter Mohrbacher
+artist_ids:
+- c8f27311-46a5-4eaf-9b2e-d660ed1db649
+illustration_id: c509cb23-70c0-4ba2-9681-dbd131976ac5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20075
+penny_rank: 4112
+prices:
+  usd: '0.05'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386308
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dauntless+Onslaught&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dauntless+Onslaught&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dauntless+Onslaught
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92871?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dauntless+Onslaught&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dauntless+Onslaught&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

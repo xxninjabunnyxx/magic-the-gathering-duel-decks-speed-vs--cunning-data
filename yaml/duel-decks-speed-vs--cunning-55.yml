@@ -1,0 +1,117 @@
+---
+object: card
+id: faaf07b2-57b0-4437-a8d7-51ff8894a7db
+oracle_id: bd73581c-c4bd-46cb-8004-75aeafa24288
+multiverse_ids:
+- 386329
+tcgplayer_id: 92930
+cardmarket_id: 268816
+name: Hussar Patrol
+lang: en
+released_at: '2014-09-05'
+uri: https://api.scryfall.com/cards/faaf07b2-57b0-4437-a8d7-51ff8894a7db
+scryfall_uri: https://scryfall.com/card/ddn/55/hussar-patrol?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.jpg?1592754898
+  normal: https://cards.scryfall.io/normal/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.jpg?1592754898
+  large: https://cards.scryfall.io/large/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.jpg?1592754898
+  png: https://cards.scryfall.io/png/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.png?1592754898
+  art_crop: https://cards.scryfall.io/art_crop/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.jpg?1592754898
+  border_crop: https://cards.scryfall.io/border_crop/front/f/a/faaf07b2-57b0-4437-a8d7-51ff8894a7db.jpg?1592754898
+mana_cost: "{2}{W}{U}"
+cmc: 4.0
+type_line: Creature — Human Knight
+oracle_text: |-
+  Flash (You may cast this spell any time you could cast an instant.)
+  Vigilance
+power: '2'
+toughness: '4'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Vigilance
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set: ddn
+set_name: 'Duel Decks: Speed vs. Cunning'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/163844e5-077e-4e2c-a0f0-fa33fbc7bb3b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/faaf07b2-57b0-4437-a8d7-51ff8894a7db/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd73581c-c4bd-46cb-8004-75aeafa24288&unique=prints
+collector_number: '55'
+digital: false
+rarity: common
+flavor_text: |-
+  "You think no one is watching, you think you're smart enough to escape, and most foolish of all, you think no one cares."
+  —Arrester Lavinia, Tenth Precinct
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Seb McKinnon
+artist_ids:
+- ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb
+illustration_id: fcd6fa61-4899-46b7-9914-b91ef1bcb16d
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21661
+penny_rank: 14253
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386329
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hussar+Patrol&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hussar+Patrol&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hussar+Patrol
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92930?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hussar+Patrol&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hussar+Patrol&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
